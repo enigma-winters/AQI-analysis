@@ -1,0 +1,3 @@
+# m h  dom mon dow   command
+0 */1 * * * /usr/bin/python3.8 /home/siddharth/Semester_V/DS250/DS250_Project/p
+(<0-Everymonth> <Hourly> * * * <Compiler Path> <File Path>)
